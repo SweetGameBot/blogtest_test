@@ -1,2 +1,1 @@
-# blogtest_test
-REG.RU Block
+<div>Hi</div>
